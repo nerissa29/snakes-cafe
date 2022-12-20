@@ -40,8 +40,7 @@ Unicorn Tears
 food_dict = {
     "Wings": 0,
     "Cookies": 0,
-    "Spring": 0,
-    "Rolls": 0,
+    "Spring Rolls": 0,
     "Salmon": 0,
     "Steak": 0,
     "Meat Tornado": 0,
@@ -51,7 +50,7 @@ food_dict = {
     "Pie": 0,
     "Coffee": 0,
     "Tea": 0,
-    "Unicorn ": 0
+    "Unicorn Tears": 0
 }
 
 def order_options():
